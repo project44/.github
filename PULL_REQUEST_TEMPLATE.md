@@ -1,12 +1,14 @@
 ### JIRA Link
 
+[https://project44.atlassian.net/browse/XXXX](Link)
+
 ### Summary
 Please include a summary of the change and add relevant motivation and context. Keep in mind that this information might be used by on-call engineers to handle potential incidents.
 
 ### Risks
 
 - Potentially, what could go wrong with this change in the worst case scenario (i.e. not being able to process write requests, etc.)?
-- Note that if there is no risk in applying this change, there is also no risk in **not** doing this change
+- Please DO fill this in. The only change without the risk is no change at all.
 
 ### Test Plan
 
