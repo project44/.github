@@ -1,6 +1,6 @@
 ### JIRA Link
 
-[https://project44.atlassian.net/browse/XXXX](Link)
+[Link](https://project44.atlassian.net/browse/XXXX)
 
 ### Summary
 Please include a summary of the change and add relevant motivation and context. Keep in mind that this information might be used by on-call engineers to handle potential incidents.
