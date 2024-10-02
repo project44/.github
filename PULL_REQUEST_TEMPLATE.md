@@ -1,29 +1,26 @@
-## JIRA Link
+### JIRA Link
 
+[Link](https://project44.atlassian.net/browse/XXXX)
 
-## Summary of Change
+### Summary
+Please include a summary of the change and add relevant motivation and context. Keep in mind that this information might be used by on-call engineers to handle potential incidents.
 
+### Risks
 
-## Proof
-*Add images of UI, an API response, RFC, Dashboards, or other context that you used or referenced that can help others understand and see the change.*
+- Potentially, what could go wrong with this change in the worst case scenario (i.e. not being able to process write requests, etc.)?
+- Please DO fill this in. The only change without the risk is no change at all.
 
+### Test Plan
 
-## What tests will be completed prior to this change hitting production?
-- [ ] Unit Tests and Coverage within SonarQube
-- [ ] Integration Tests run in pipeline
-- [ ] End-2-End Signals in pre-production environments
-- [ ] Other (describe below)
+- How are you going to ensure that the system works correctly after your change?
+- If you are going to test system manually, what flows are you going to test exactly?
+- How can another engineer validate this?
 
-## What are some of the worst things that could happen due to the specific changes in this deployment?
+### Rollout Plan
 
+- When are you planning to deploy/rollout your changes and what would the process look like?
 
-## Are there any Post-deployment tasks?
+### Rollback Plan
 
-
-## If the changes in this PR needs to be rolled back, are there any tasks involved other than releasing the previous version?
-
-
-## Have you answered the above completely?
-- [ ] Yes
-- [ ] No
-- [ ] I am not sure
+- What signals are you looking for to decide to roll back?
+- How will rollback/mitigation look like for this PR?
